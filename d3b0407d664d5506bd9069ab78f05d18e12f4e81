@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6f00638c_0addb04b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2026-09-02T07:41:41Z",
+      "side": 1,
+      "message": "apsensor should be used by default",
+      "revId": "d3b0407d664d5506bd9069ab78f05d18e12f4e81",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
