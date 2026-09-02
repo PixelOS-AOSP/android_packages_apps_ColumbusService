@@ -16,6 +16,24 @@
       "message": "Why?",
       "revId": "9aaf607b4f041c47412f4b743551dde800e750fc",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e05ea70d_1b0309de",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000018
+      },
+      "writtenOn": "2026-09-02T08:30:44Z",
+      "side": 1,
+      "message": "It is not in QS for Pixels, seems unwanted anyway",
+      "parentUuid": "e81fedd1_4f862d60",
+      "revId": "9aaf607b4f041c47412f4b743551dde800e750fc",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
