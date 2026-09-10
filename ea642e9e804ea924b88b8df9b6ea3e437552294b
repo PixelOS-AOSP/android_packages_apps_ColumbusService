@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5af15031_a303b8ef",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2026-09-10T15:14:03Z",
+      "side": 1,
+      "message": "i dont think any devices in the official roster support chre, so this can be abandoned",
+      "revId": "ea642e9e804ea924b88b8df9b6ea3e437552294b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
